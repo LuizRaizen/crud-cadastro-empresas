@@ -56,7 +56,7 @@ Explorar os conceitos de:
 ## 📌 Créditos
 
 Este projeto segue as instruções do canal **Pytax no YouTube**. Se quiser aprender como criar este projeto do zero, visite:
-[[https://www.youtube.com/@pytax]([https://www.youtube.com/@py4allbr]](https://www.youtube.com/@py4allbr))
+[https://www.youtube.com/@py4allbr](https://www.youtube.com/@py4allbr)
 
 ---
 
